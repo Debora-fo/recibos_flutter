@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926012176148",
+    "project_id": "pdm-recibos-22051517",
+    "storage_bucket": "pdm-recibos-22051517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926012176148:android:113303083d71e7ceedf401",
+        "android_client_info": {
+          "package_name": "com.example.recibos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926012176148-3nlfud46rkif7utudnu7bgmcl5cfqs5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABu3FJfzbLN6Uj9UDvpVvYwQWFmug0f6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926012176148-3nlfud46rkif7utudnu7bgmcl5cfqs5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
